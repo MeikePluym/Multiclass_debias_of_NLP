@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8baadbae-46a3-4855-bc32-1d3b88f1b57d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/data/albert/gender_stereotype_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/bert/ethnicities_physical_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/bert/ethnicities_polarized_class_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/bert/gender_new_gender_occupation_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/bert/gender_stereotype_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/bert/religion_polarized_class_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dbert/ethnicities_physical_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dbert/ethnicities_polarized_class_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dbert/gender_stereotype_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dbert/religion_polarized_class_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/electra/ethnicities_polarized_class_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/electra/gender_stereotype_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/gpt2/ethnicities_physical_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/gpt2/ethnicities_polarized_class_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/gpt2/gender_stereotype_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/gpt2/religion_polarized_class_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/roberta/ethnicities_polarized_class_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/roberta/gender_stereotype_data.bin" beforeDir="false" />
-    </list>
+    <list default="true" id="8baadbae-46a3-4855-bc32-1d3b88f1b57d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +137,7 @@
       <workItem from="1676299884240" duration="1360000" />
       <workItem from="1676318454200" duration="1397000" />
       <workItem from="1676449110754" duration="12469000" />
-      <workItem from="1676620033326" duration="14083000" />
+      <workItem from="1676620033326" duration="14569000" />
     </task>
     <task id="LOCAL-00001" summary="attribute and target word txt files">
       <created>1676290545626</created>
@@ -221,11 +202,36 @@
       <option name="project" value="LOCAL" />
       <updated>1677071097157</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="move folders">
+      <created>1677071335510</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677071335510</updated>
+    </task>
+    <task id="LOCAL-00011" summary="move folders">
+      <created>1677071370781</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677071370781</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="attribute and target word txt files" />
